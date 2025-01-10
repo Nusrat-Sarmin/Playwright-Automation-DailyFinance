@@ -1,0 +1,66 @@
+[
+  {
+    "firstName": "new",
+    "lastName": "user2",
+    "email": "newuser2@gmail.com",
+    "password": "user1234",
+    "phoneNumber": "01711585854",
+    "address": "Dhanmondi"
+  },
+  {
+    "firstName": "new",
+    "lastName": "user2",
+    "email": "newuser2@gmail.com",
+    "password": "user1234",
+    "phoneNumber": "01711585854",
+    "address": "Dhanmondi"
+  },
+  {
+    "firstName": "new",
+    "lastName": "user25",
+    "email": "newuser27@gmail.com",
+    "password": "user1234",
+    "phoneNumber": "01711585854",
+    "address": "Dhanmondi"
+  },
+  {
+    "firstName": "Lorine",
+    "lastName": "Pagac",
+    "email": "Pearl71@gmail.com",
+    "password": "OceIhNPTsurXrvm",
+    "phoneNumber": "01426959613",
+    "address": "Lake Alicia"
+  },
+  {
+    "firstName": "Willy",
+    "lastName": "O'Conner",
+    "email": "Ruthe45@gmail.com",
+    "password": "32KguZkqL_0mDgC",
+    "phoneNumber": "01870479979",
+    "address": "Lake Loisstead"
+  },
+  {
+    "firstName": "Hilma",
+    "lastName": "Kuhn",
+    "email": "Anissa67@gmail.com",
+    "password": "GEV7owv9sW3lhvT",
+    "phoneNumber": "01868505618",
+    "address": "Macfort"
+  },
+  {
+    "firstName": "Camilla",
+    "lastName": "Kihn",
+    "email": "Theodora22@gmail.com",
+    "password": "9AhOLR5pnH9YE_b",
+    "phoneNumber": "01301014626",
+    "address": "East Humbertohaven"
+  },
+  {
+    "firstName": "Aisha",
+    "lastName": "Ratke",
+    "email": "Priscilla.Kihn@gmail.com",
+    "password": "8ee_MXmjSHof2al",
+    "phoneNumber": "01214376015",
+    "address": "Lompoc"
+  }
+]
