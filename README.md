@@ -36,6 +36,5 @@ npx playwright show-report
 
 
 
-<img width="903" alt="Playwright_Project" src="![Report_Image](https://github.com/user-attachments/assets/047b0d36-89d5-494a-a4e6-e410bb6eb693)
-Playwright">
+<img width="903" alt="Playwright" src="https://github.com/user-attachments/assets/047b0d36-89d5-494a-a4e6-e410bb6eb693">
 
