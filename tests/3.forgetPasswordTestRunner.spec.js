@@ -49,7 +49,7 @@ test("User can rest password with non-registered email", async ({ page }) => {
 });
 
 test("User can User can reset password successfully", async ({ page }) => {
-  await page.goto("https://dailyfinance.roadtocareer.net/reset-password?token=f42bda54f3d52775351e9c325f630b62e3936d0ac66bd1bd5e415687baea017d");
+  await page.goto("https://dailyfinance.roadtocareer.net/reset-password");
   
   const forgetPassword = new ForgetPassword(page);
   await expect(
