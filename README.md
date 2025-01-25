@@ -36,7 +36,10 @@ npx playwright show-report
 
 
 
-<img width="903" alt="Playwright" src="https://github.com/user-attachments/assets/047b0d36-89d5-494a-a4e6-e410bb6eb693">
+<img width="903" alt="daily_finance01" src="https://github.com/user-attachments/assets/25a27972-edd9-4b5f-ad8c-d240bdeb45c4">
+<img width="903" alt="daily_finance02" src="https://github.com/user-attachments/assets/8d58914e-3f69-41bb-a34d-a7778a29d30f">
+
+
 
 # Video 
 https://github.com/user-attachments/assets/a6e635b5-fb69-4b4e-91cc-75812bbd56eb
