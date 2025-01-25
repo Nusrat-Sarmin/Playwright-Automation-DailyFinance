@@ -42,7 +42,19 @@ npx playwright show-report
 
 
 # Video 
-https://github.com/user-attachments/assets/a6e635b5-fb69-4b4e-91cc-75812bbd56eb
+
+https://github.com/user-attachments/assets/c85759ed-f0c5-4e12-a219-205aaa3ef97e
+
+
+
+
+
+
+
+
+
+
+
 
 
 
