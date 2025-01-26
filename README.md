@@ -34,10 +34,13 @@ npx playwright test
 Open the URL: https://dailyfinance.roadtocareer.net/.
 ### 2.Complete the Registration Process
 Fill out with existing email and password
+
 Fill out with all mandatory field
 ### 3.Complete the Login process
 Fill out with an existing email and password.
+
 Fill out with invalid email and password.
+
 Fill out all valid mandatory field.
 
 
