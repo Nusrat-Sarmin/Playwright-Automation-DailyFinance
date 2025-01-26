@@ -30,12 +30,12 @@ npx playwright test
 
 # Test Scenarios
 ## Steps to Automate
-# 1.Visit the Login Page
+### 1.Visit the Login Page
 Open the URL: https://dailyfinance.roadtocareer.net/.
-# 2.Complete the Registration Process
+### 2.Complete the Registration Process
 Fill out with existing email and password
 Fill out with all mandatory field
-# 3.Complete the Login process
+### 3.Complete the Login process
 Fill out with an existing email and password.
 Fill out with invalid email and password.
 Fill out all valid mandatory field.
