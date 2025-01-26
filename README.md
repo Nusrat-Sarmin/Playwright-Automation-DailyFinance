@@ -47,7 +47,7 @@ Fill out email with non-registered email
 
 Fill out email with registered email
 
-Fill out new password & password field.
+Fill out new password & confirm password field.
 
 ### 5.Upload profile photo and logout.
 Click to profile and attach a profile picture.
